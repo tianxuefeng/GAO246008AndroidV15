@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="22"
+    density="hdpi"
+    format="7"
+    timestamp="10302277296188"
+    token="-3965368918249646290" >
+
+    <task
+        name="javac"
+        duration="256" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="20" />
+    <task
+        name="verifier"
+        duration="4" />
+
+    <artifact
+        location="/Users/Xuefeng/Desktop/AndroidStudioProjects/GAO246008AndroidV15/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+        type="DEX" />
+
+    <build timestamp="5063351530921" >
+        <artifact
+            location="/Users/Xuefeng/Desktop/AndroidStudioProjects/GAO246008AndroidV15/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="10302277296188" >
+        <artifact
+            location="/Users/Xuefeng/Desktop/AndroidStudioProjects/GAO246008AndroidV15/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

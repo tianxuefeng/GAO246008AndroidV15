@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Xuefeng/Desktop/AndroidStudioProjects/GAO246008AndroidV15/app/build/intermediates/res/merged/debug/layout/list_item_inventory.xml",
+        "source": "/Users/Xuefeng/Desktop/AndroidStudioProjects/GAO246008AndroidV15/app/src/main/res/layout/list_item_inventory.xml"
+    },
+    {
+        "merged": "/Users/Xuefeng/Desktop/AndroidStudioProjects/GAO246008AndroidV15/app/build/intermediates/res/merged/debug/layout/test_ui.xml",
+        "source": "/Users/Xuefeng/Desktop/AndroidStudioProjects/GAO246008AndroidV15/app/src/main/res/layout/test_ui.xml"
+    },
+    {
+        "merged": "/Users/Xuefeng/Desktop/AndroidStudioProjects/GAO246008AndroidV15/app/build/intermediates/res/merged/debug/layout/mask.xml",
+        "source": "/Users/Xuefeng/Desktop/AndroidStudioProjects/GAO246008AndroidV15/app/src/main/res/layout/mask.xml"
+    },
+    {
+        "merged": "/Users/Xuefeng/Desktop/AndroidStudioProjects/GAO246008AndroidV15/app/build/intermediates/res/merged/debug/layout/rfid_host.xml",
+        "source": "/Users/Xuefeng/Desktop/AndroidStudioProjects/GAO246008AndroidV15/app/src/main/res/layout/rfid_host.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Xuefeng/Desktop/AndroidStudioProjects/GAO246008AndroidV15/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/lamp_gray.png",
+        "source": "/Users/Xuefeng/Desktop/AndroidStudioProjects/GAO246008AndroidV15/app/src/main/res/drawable-hdpi/lamp_gray.png"
+    },
+    {
+        "merged": "/Users/Xuefeng/Desktop/AndroidStudioProjects/GAO246008AndroidV15/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/lamp_red.png",
+        "source": "/Users/Xuefeng/Desktop/AndroidStudioProjects/GAO246008AndroidV15/app/src/main/res/drawable-hdpi/lamp_red.png"
+    },
+    {
+        "merged": "/Users/Xuefeng/Desktop/AndroidStudioProjects/GAO246008AndroidV15/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/lamp_green.png",
+        "source": "/Users/Xuefeng/Desktop/AndroidStudioProjects/GAO246008AndroidV15/app/src/main/res/drawable-hdpi/lamp_green.png"
+    },
+    {
+        "merged": "/Users/Xuefeng/Desktop/AndroidStudioProjects/GAO246008AndroidV15/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon.png",
+        "source": "/Users/Xuefeng/Desktop/AndroidStudioProjects/GAO246008AndroidV15/app/src/main/res/drawable-hdpi/icon.png"
+    }
+]
